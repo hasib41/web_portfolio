@@ -5,7 +5,7 @@ body{
 #name-highlights{
     color: rgb(173, 227, 12);
 }
-#highlight{
+.highlights{
     color: rgb(98, 16, 180)
 }
 #hir
@@ -24,4 +24,93 @@ body{
 }
 .half-width img{
     width: 100%;
+}
+.top-banner
+{
+    background-image: url("E:\progamming\web development\project\web_portfolio\images\top_banner.png");
+}
+.top-banner
+{
+    height: 500px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    padding: 10px 20px;
+    color:white;
+    font-weight: 700;
+    border-radius: 7px;
+    
+}
+.aa
+{
+    font-size: 50px;
+}
+.width{
+    width: 38%;
+    float: left;
+    margin-left: 4%;
+    padding: 3%;
+    height: 350;
+    width: 400;
+}
+.width img{
+    height: 60%;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.bb{
+    font-size: 50px;
+    color: crimson;
+}
+.cc{
+    font-size: 30px;
+}
+.dd{
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.ff{
+    font-size: 12px;
+    color: rgb(134, 68, 81);
+}
+.ee{
+    font-size: 15px;
+    color:rgb(171, 83, 51)
+
+}
+.yy{
+    border: 1px solid burlywood;
+    width: 40%;
+  border-radius: 4px;
+    float: left;
+    padding: 5px;
+    box-shadow: 10px 10px 40px gray;
+    margin: 0px 20px;
+    height: 200px;
+    margin-bottom: 100px;
+    border-left: 7px solid rgb(91, 91, 184);
+    border-image: linear-gradient(lightsalmon, tomato);
+   border-image-slice: 1;
+}
+.xx
+{
+    width: 100%;
+    float: left;
+    background-image: url("E:\progamming\web development\project\web_portfolio\images\exp-bg.png");
+}
+#hh
+{
+    border-left: 7px solid rgb(164, 102, 36);
+    border-image: linear-gradient(lightsalmon, tomato);
+   border-image-slice: 1;
+}
+#ii
+{
+    border-left: 7px solid rgb(91, 91, 184);
+    border-image: linear-gradient(rgb(78, 98, 144), rgb(42, 24, 134));
+   border-image-slice: 1;
 }
