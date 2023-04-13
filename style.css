@@ -1,0 +1,27 @@
+body{
+    font-style: normal;
+    font-size: large;
+}
+#name-highlights{
+    color: rgb(173, 227, 12);
+}
+#highlight{
+    color: rgb(98, 16, 180)
+}
+#hir
+{
+  color: rgb(145, 84, 6);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: 2%;
+}
+#small
+{
+    font-size:smaller;
+}
+.half-width img{
+    width: 100%;
+}
