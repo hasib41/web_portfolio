@@ -21,6 +21,8 @@ body{
 #small
 {
     font-size:smaller;
+    overflow-x: scroll;
+    
 }
 .half-width img{
     width: 100%;
@@ -76,6 +78,7 @@ img{
 .ff{
     font-size: 12px;
     color: rgb(134, 68, 81);
+    overflow-x: scroll;
 }
 .ee{
     font-size: 15px;
